@@ -1,0 +1,12 @@
+.body{
+    background-color: grey;
+
+}
+
+.banner{
+    background-color: #660000;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px;
+}
