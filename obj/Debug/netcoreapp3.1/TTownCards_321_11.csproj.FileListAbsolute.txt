@@ -1,0 +1,13 @@
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.exe
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.deps.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.runtimeconfig.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.runtimeconfig.dev.json
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.dll
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\bin\Debug\netcoreapp3.1\TTownCards_321_11.pdb
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.csprojAssemblyReference.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.AssemblyInfoInputs.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.AssemblyInfo.cs
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.csproj.CoreCompileInputs.cache
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.dll
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.pdb
+C:\Users\gmac2\source\repos\MIS_321_Repos\TTownCards_321_11\obj\Debug\netcoreapp3.1\TTownCards_321_11.genruntimeconfig.cache
