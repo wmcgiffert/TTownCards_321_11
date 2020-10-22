@@ -1,5 +1,5 @@
-.body{
-    background-color: grey;
+body{
+    background-color: lightgray;
 
 }
 
@@ -9,4 +9,11 @@
     margin-top: 50px;
     text-align: center;
     padding: 100px;
+}
+
+.banner p{
+    font-family:  Neucha;
+    font-size: xx-large;
+    color: black;
+    font-weight: bold;
 }
