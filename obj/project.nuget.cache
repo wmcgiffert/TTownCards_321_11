@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TL6jY9HMdD13t3YpZR8HQbzHeM3gPyy4SwuY7ASspYx4ycGXF6EW2g6X3xr6dULsANNVvPzoAMjO6iVbYG23dg==",
+  "dgSpecHash": "I3EUyezaZUrLmFcNHziPPGsJiF6EOYkJ5r/w6uTGDH2DRbJms/tE2yAT/KffLL++0Ymb+Y92/3qYXCEIBSRjpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gmac2\\source\\repos\\MIS_321_Repos\\TTownCards_321_11\\TTownCards_321_11.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/beccaridilla/Documents/Fall 2020/MIS 321/Codes/Repos/TTownCards_321_11/TTownCards_321_11.csproj",
+  "expectedPackageFiles": [
+    "/Users/beccaridilla/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.1/stub.system.data.sqlite.core.netstandard.1.0.113.1.nupkg.sha512",
+    "/Users/beccaridilla/.nuget/packages/system.data.sqlite.core/1.0.113.6/system.data.sqlite.core.1.0.113.6.nupkg.sha512"
+  ],
   "logs": []
 }
